@@ -59,7 +59,6 @@ public class App {
                 break;
             } else {
                 System.out.println("Comando invalido tente novamente");
-                System.out.println("Volte novamento");
             }
         }
     }
